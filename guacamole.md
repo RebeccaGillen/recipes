@@ -1,5 +1,6 @@
-# Guacamole recipe
-# 
+##### Guacamole recipe
+ 
 # Ingredients
-# Avocado
-# Lemon juice
+- Avocado
+- Lemon juice
+- Salt
