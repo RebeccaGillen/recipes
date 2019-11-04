@@ -5,4 +5,4 @@
 - Lime juice
 - Salt
 
-# Method
+# Instructions
